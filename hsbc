@@ -1,0 +1,10 @@
+[Rule]
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcpb.com
+DOMAIN-SUFFIX,hsbcprivatebank.com
+DOMAIN-SUFFIX,hsbcmiddleeast.com
+DOMAIN-KEYWORD,hsbc
