@@ -1,7 +1,7 @@
 #CDN环境检测
-https://mobilenew.e-chinalife.com
-https://elspadfe.e-chinalife.com
+DOMAIN-SUFFIX,https://mobilenew.e-chinalife.com
+DOMAIN-SUFFIX,https://elspadfe.e-chinalife.com
 #后端服务环境检测成功
-https://padnew.e-chinalife.com
-https://open.e-chinalife.com
-https://elspadse.e-chinalife.com
+DOMAIN-SUFFIX,https://padnew.e-chinalife.com
+DOMAIN-SUFFIX,https://open.e-chinalife.com
+DOMAIN-SUFFIX,https://elspadse.e-chinalife.com
